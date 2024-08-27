@@ -1,5 +1,7 @@
 # Obsidian Date Picker
 
+![Alt Text](./READMEGIF.gif)
+
 This is a simple and easy to use date picker designed to be used with the tasks plugin for Obsidian.
 Simply just click on the emojis and it'll pop up. New features would be added in the future to be used as a date picker everywhere.
 
